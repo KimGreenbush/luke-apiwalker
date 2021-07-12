@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/KimGreenbush/luke-apiwalker/static/css/main.6c7b02ef.chunk.css",
-    "main.js": "/KimGreenbush/luke-apiwalker/static/js/main.a1a0ca0a.chunk.js",
-    "main.js.map": "/KimGreenbush/luke-apiwalker/static/js/main.a1a0ca0a.chunk.js.map",
-    "runtime-main.js": "/KimGreenbush/luke-apiwalker/static/js/runtime-main.5185c7e7.js",
-    "runtime-main.js.map": "/KimGreenbush/luke-apiwalker/static/js/runtime-main.5185c7e7.js.map",
-    "static/js/2.6fe9f6c9.chunk.js": "/KimGreenbush/luke-apiwalker/static/js/2.6fe9f6c9.chunk.js",
-    "static/js/2.6fe9f6c9.chunk.js.map": "/KimGreenbush/luke-apiwalker/static/js/2.6fe9f6c9.chunk.js.map",
-    "static/js/3.e66c015f.chunk.js": "/KimGreenbush/luke-apiwalker/static/js/3.e66c015f.chunk.js",
-    "static/js/3.e66c015f.chunk.js.map": "/KimGreenbush/luke-apiwalker/static/js/3.e66c015f.chunk.js.map",
-    "index.html": "/KimGreenbush/luke-apiwalker/index.html",
-    "static/css/main.6c7b02ef.chunk.css.map": "/KimGreenbush/luke-apiwalker/static/css/main.6c7b02ef.chunk.css.map",
-    "static/js/2.6fe9f6c9.chunk.js.LICENSE.txt": "/KimGreenbush/luke-apiwalker/static/js/2.6fe9f6c9.chunk.js.LICENSE.txt"
+    "main.css": "/luke-apiwalker/static/css/main.6c7b02ef.chunk.css",
+    "main.js": "/luke-apiwalker/static/js/main.a1a0ca0a.chunk.js",
+    "main.js.map": "/luke-apiwalker/static/js/main.a1a0ca0a.chunk.js.map",
+    "runtime-main.js": "/luke-apiwalker/static/js/runtime-main.9311d452.js",
+    "runtime-main.js.map": "/luke-apiwalker/static/js/runtime-main.9311d452.js.map",
+    "static/js/2.6fe9f6c9.chunk.js": "/luke-apiwalker/static/js/2.6fe9f6c9.chunk.js",
+    "static/js/2.6fe9f6c9.chunk.js.map": "/luke-apiwalker/static/js/2.6fe9f6c9.chunk.js.map",
+    "static/js/3.e66c015f.chunk.js": "/luke-apiwalker/static/js/3.e66c015f.chunk.js",
+    "static/js/3.e66c015f.chunk.js.map": "/luke-apiwalker/static/js/3.e66c015f.chunk.js.map",
+    "index.html": "/luke-apiwalker/index.html",
+    "static/css/main.6c7b02ef.chunk.css.map": "/luke-apiwalker/static/css/main.6c7b02ef.chunk.css.map",
+    "static/js/2.6fe9f6c9.chunk.js.LICENSE.txt": "/luke-apiwalker/static/js/2.6fe9f6c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5185c7e7.js",
+    "static/js/runtime-main.9311d452.js",
     "static/js/2.6fe9f6c9.chunk.js",
     "static/css/main.6c7b02ef.chunk.css",
     "static/js/main.a1a0ca0a.chunk.js"
