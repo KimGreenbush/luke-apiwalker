@@ -1,6 +1,8 @@
 {
-  "name": "big-inversion",
+  "author": "Kimberley Greenbush",
+  "name": "luke-apiwalker",
   "version": "0.1.0",
+  "homepage": "https://github.com/KimGreenbush/luke-apiwalker",
   "private": true,
   "dependencies": {
     "@reach/router": "^1.3.4",
@@ -8,6 +10,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.0",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0",
@@ -15,6 +18,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
